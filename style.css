@@ -1,0 +1,48 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    margin: 0;
+    padding: 20px;
+    text-align: center;
+}
+
+header {
+    background-color: #ffffff;
+    padding: 30px;
+    border-radius: 8px;
+}
+
+.intro {
+    font-size: 16px;
+    color: #555;
+}
+
+.skills {
+    margin-top: 30px;
+}
+
+.skills ul {
+    list-style: none;
+    padding: 0;
+}
+
+.skills li {
+    background-color: #ffffff;
+    margin: 8px auto;
+    padding: 10px;
+    width: 200px;
+    border-radius: 5px;
+}
+
+.action {
+    margin-top: 30px;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: #007acc;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
